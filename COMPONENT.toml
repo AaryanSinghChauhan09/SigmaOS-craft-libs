@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-craft-libs"
+tier = 5
+stability = "scaffold"
+language = "rust"
+description = "Shared creative libraries for SigmaOS — color management, ICC profiles, font loading, and codec abstractions"
+upstream = []
+
+[contract]
+provides = ["color-management", "font-loader", "codecs"]
+depends_on = []
+
+[maturity]
+status = "Scaffold"
+test_evidence = "Compiles"
+next_milestone = "Verification test suite"

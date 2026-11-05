@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_craft_libs"
+version = "0.1.0"
+edition = "2021"
+description = "Shared creative libraries for SigmaOS — color management, ICC profiles, font loading, and codec abstractions"
+
+[lib]
+name = "sigmaos_craft_libs"
+path = "src/lib.rs"
