@@ -14,3 +14,8 @@ depends_on = []
 status = "Scaffold"
 test_evidence = "Compiles"
 next_milestone = "Verification test suite"
+
+[consolidation]
+canonical = "SigmaOS-craft-craftlibs"
+consolidated_into = "SigmaOS-craft-craftlibs"
+status = "alias"
