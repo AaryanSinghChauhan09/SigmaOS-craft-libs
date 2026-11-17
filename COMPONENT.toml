@@ -3,7 +3,7 @@ name = "SigmaOS-craft-libs"
 tier = 5
 stability = "scaffold"
 language = "rust"
-description = "Shared creative libraries for SigmaOS — color management, ICC profiles, font loading, and codec abstractions"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
