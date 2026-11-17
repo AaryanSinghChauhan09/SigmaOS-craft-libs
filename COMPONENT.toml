@@ -1,7 +1,7 @@
 [component]
 name = "SigmaOS-craft-libs"
 tier = 5
-stability = "scaffold"
+stability = "beta"
 language = "rust"
 description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
@@ -11,7 +11,7 @@ provides = ["color-management", "font-loader", "codecs"]
 depends_on = []
 
 [maturity]
-status = "Scaffold"
+status = "Implemented"
 test_evidence = "Compiles"
 next_milestone = "Verification test suite"
 
